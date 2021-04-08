@@ -11,4 +11,7 @@ public class Company {
 	public void companyName3() {
 		System.out.println("company name is wipro");
 }
+	public void companyName8() {
+		System.out.println("company name is wipro");
 }
+}	
