@@ -5,4 +5,10 @@ public class Company {
 		System.out.println("company name is wipro");
 
 	}
+	public void companyName2() {
+		System.out.println("company name is wipro");
+}
+	public void companyName3() {
+		System.out.println("company name is wipro");
+}
 }
